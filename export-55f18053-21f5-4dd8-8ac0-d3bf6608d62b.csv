@@ -1,4 +1,4 @@
-"Incident ID","Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+"Incident ID","Incident Date",State,"City",Address,"Killed","# Injured",Operations
 2335052,"June 20, 2022","New York","New York (Manhattan)","5th Ave and W 139th St",1,8,N/A
 2335872,"June 20, 2022","New York","Staten Island","Taft Ave and Westervelt Ave",0,5,N/A
 2334620,"June 19, 2022","South Carolina",Walterboro,"1109 Rivers St",2,2,N/A
